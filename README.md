@@ -50,11 +50,12 @@ Hello there! I'm **Kazi Neyamul Hasan**, an enthusiast of science, new technolog
     <td align="center">
       <h3>
         <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="20">
-        Machine Learning
+        Machine Learning & Data Science
       </h3>
       <div align="left">
         <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white">
         <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white">
+        <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white">
         <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white">
       </div>
     </td>
