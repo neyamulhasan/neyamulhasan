@@ -1,11 +1,11 @@
-# 😄 Welcome to My GitHub Profile!
+# Welcome to My GitHub Profile!
 
 Hello there! I'm **Kazi Neyamul Hasan**, a passionate **CSE Student** and aspiring **Software Engineer**. 🚀  
 I write clean, simple, and sometimes **hilarious** code (or at least I try to). Here's a peek into my **GitHub life**:
 
 ---
 
-### 📊 **:)**
+### **:)**
 ![GitHub Stats](IMG/nr.png)
 
 ---
