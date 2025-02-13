@@ -6,8 +6,7 @@ I write clean, simple, and sometimes **hilarious** code (or at least I try to). 
 ---
 
 ### **:)**
-![GitHub Stats](IMG/nr.png)
-
+<img src="IMG/nr.png" alt="GitHub Stats" width="300"/>
 ---
 
 ### 🛠️ **Technologies & Tools I Use**
