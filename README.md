@@ -4,57 +4,32 @@ Hello there! I'm **Kazi Neyamul Hasan**, an enthusiast of science, new technolog
 
 ---
 
-## 🛠️ Technologies & Skills  
-
 <table>
   <tr>
     <td>
-      <h3>💻 Languages</h3>
+      <img src="IMG/nnr.jpg" alt="GitHub Stats" width="300"/>
+    </td>
+    <td>
+      <h3>Languages</h3>
       <ul>
-        <li>C, C++</li>
-        <li>Java, JavaScript</li>
-        <li>Python, PHP</li>
+        <li>Python</li>
+        <li>C/C++</li>
+        <li>Java</li>
+        <li>JavaScript</li>
+        <li>PHP</li>
       </ul>
     </td>
     <td>
-      <h3>🌐 Web Development</h3>
-      <ul>
-        <li>HTML5, CSS3</li>
-        <li>React</li>
-      </ul>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <h3>🚀 Framework</h3>
-      <ul>
-        <li>Flask</li>
-      </ul>
-    </td>
-    <td>
-      <h3>🗄️ Database</h3>
-      <ul>
-        <li>MySQL</li>
-      </ul>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <h3>🔄 Version Control</h3>
+      <h3>Tools & Skills</h3>
       <ul>
         <li>Git & GitHub</li>
-      </ul>
-    </td>
-    <td>
-      <h3>🤖 Machine Learning</h3>
-      <ul>
-        <li>TensorFlow, PyTorch</li>
+        <li>MySQL</li>
+        <li>Object-Oriented Programming (OOP)</li>
+        <li>Problem-Solving</li>
       </ul>
     </td>
   </tr>
 </table>
-
-### 📌 Data Structure and Algorithms  
 
 ---
 
