@@ -6,11 +6,11 @@ Hello there! I'm **Kazi Neyamul Hasan**, an enthusiast of science, new technolog
 
 <table>
   <tr>
-    <td>
+    <td width="300">
       <img src="IMG/nnr.jpg" alt="GitHub Stats" width="300"/>
     </td>
     <td>
-      <h3>Languages</h3>
+      <h3>Programming Languages</h3>
       <ul>
         <li>Python</li>
         <li>C/C++</li>
@@ -20,12 +20,39 @@ Hello there! I'm **Kazi Neyamul Hasan**, an enthusiast of science, new technolog
       </ul>
     </td>
     <td>
-      <h3>Tools & Skills</h3>
+      <h3>Web Development</h3>
       <ul>
-        <li>Git & GitHub</li>
+        <li>HTML5</li>
+        <li>CSS3</li>
+        <li>React</li>
+        <li>Flask</li>
+      </ul>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <h3>Database & Version Control</h3>
+      <ul>
         <li>MySQL</li>
+        <li>Git & GitHub</li>
+      </ul>
+    </td>
+    <td>
+      <h3>Machine Learning</h3>
+      <ul>
+        <li>TensorFlow</li>
+        <li>PyTorch</li>
+        <li>Data Structures</li>
+        <li>Algorithms</li>
+      </ul>
+    </td>
+    <td>
+      <h3>Core Skills</h3>
+      <ul>
         <li>Object-Oriented Programming (OOP)</li>
         <li>Problem-Solving</li>
+        <li>Data Structures and Algorithms</li>
+        <li>Software Development</li>
       </ul>
     </td>
   </tr>
