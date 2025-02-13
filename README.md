@@ -1,37 +1,69 @@
-# Welcome to My GitHub Profile!
+# Welcome to My GitHub Profile!  
 
-Hello there! I'm **Kazi Neyamul Hasan**, Enthusiast about science, new technology, programming, and online gaming. Always willing to share my knowledge and innovative ideas with others. Committed to making a positive impact in the world through software development, problem-solving, and volunteering. Ready to contribute to any team or project. I am confident that I can make a meaningful contribution to any team or project.
+Hello there! I'm **Kazi Neyamul Hasan**, an enthusiast of science, new technology, programming, and online gaming. Always eager to share my knowledge and innovative ideas with others. Committed to making a positive impact through software development, problem-solving, and volunteering. Ready to contribute to any team or project with confidence and dedication.  
 
 ---
+
+## 🛠️ Technologies & Skills  
 
 <table>
   <tr>
     <td>
-      <img src="IMG/nnr.jpg" alt="GitHub Stats" width="300"/>
+      <h3>💻 Languages</h3>
+      <ul>
+        <li>C, C++</li>
+        <li>Java, JavaScript</li>
+        <li>Python, PHP</li>
+      </ul>
     </td>
     <td>
-      <h3>Technologies & Tools I Use</h3>
+      <h3>🌐 Web Development</h3>
       <ul>
-        <li>Python</li>
-        <li>C/C++</li>
+        <li>HTML5, CSS3</li>
+        <li>React</li>
+      </ul>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <h3>🚀 Framework</h3>
+      <ul>
+        <li>Flask</li>
+      </ul>
+    </td>
+    <td>
+      <h3>🗄️ Database</h3>
+      <ul>
         <li>MySQL</li>
-        <li>PHP</li>
-        <li>Java</li>
-        <li>JavaScript</li>
+      </ul>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <h3>🔄 Version Control</h3>
+      <ul>
         <li>Git & GitHub</li>
+      </ul>
+    </td>
+    <td>
+      <h3>🤖 Machine Learning</h3>
+      <ul>
+        <li>TensorFlow, PyTorch</li>
       </ul>
     </td>
   </tr>
 </table>
 
+### 📌 Data Structure and Algorithms  
+
 ---
 
-### 💬 **Let’s Connect!**
-- [LinkedIn](https://www.linkedin.com/in/kazi-neyamul-hasan-1376201bb/)
-- [Portfolio](https://neyamul-hasan14.github.io/Neyamul-Hasan-Portfolio/)
-- Or just hit me up right here on GitHub! 
+### 💬 **Let’s Connect!**  
+- [LinkedIn](https://www.linkedin.com/in/kazi-neyamul-hasan-1376201bb/)  
+- [Portfolio](https://neyamul-hasan14.github.io/Neyamul-Hasan-Portfolio/)  
+- Or just hit me up right here on GitHub!  
 
 ---
 
 Thanks for visiting my profile.  
-Happy coding 👍
+Happy coding! 👍  
