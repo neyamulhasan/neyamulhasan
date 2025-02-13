@@ -6,7 +6,7 @@ I write clean, simple, and sometimes **hilarious** code (or at least I try to). 
 ---
 
 ### **:)**
-<img src="IMG/nr2.png" alt="GitHub Stats" width="300"/>
+<img src="IMG/nr3.png" alt="GitHub Stats" width="300"/>
 ---
 
 ### 🛠️ **Technologies & Tools I Use**
