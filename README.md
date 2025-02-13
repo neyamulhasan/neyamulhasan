@@ -75,12 +75,5 @@ Hello there! I'm **[Kazi Neyamul Hasan](https://neyamul-hasan14.github.io/Neyamu
 
 ---
 
-###**Let’s Connect!**  
-- [LinkedIn](https://www.linkedin.com/in/kazi-neyamul-hasan-1376201bb/)  
-- [Portfolio](https://neyamul-hasan14.github.io/Neyamul-Hasan-Portfolio/)  
-- Or just hit me up right here on GitHub!  
-
----
-
 Thanks for visiting my profile.  
 Happy coding! 👍  
