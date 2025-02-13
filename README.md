@@ -4,19 +4,25 @@ Hello there! I'm **Kazi Neyamul Hasan**, Enthusiast about science, new technolog
 
 ---
 
-### **:)**
-<img src="IMG/nnr.jpg" alt="GitHub Stats" width="300"/>
----
-
-### 🛠️ **Technologies & Tools I Use**
-
-- Python 
-- C/C++ 
-- MySQL 
-- PHP 
-- Java 
-- JavaScript 
-- Git & GitHub 
+<table>
+  <tr>
+    <td>
+      <img src="IMG/nnr.jpg" alt="GitHub Stats" width="300"/>
+    </td>
+    <td>
+      <h3>Technologies & Tools I Use</h3>
+      <ul>
+        <li>Python</li>
+        <li>C/C++</li>
+        <li>MySQL</li>
+        <li>PHP</li>
+        <li>Java</li>
+        <li>JavaScript</li>
+        <li>Git & GitHub</li>
+      </ul>
+    </td>
+  </tr>
+</table>
 
 ---
 
