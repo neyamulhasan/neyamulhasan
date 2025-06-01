@@ -2,7 +2,7 @@
 
 # Welcome to My GitHub Profile!  
 
-Hello there! I'm **[Kazi Neyamul Hasan](https://neyamul-hasan14.github.io/Neyamul-Hasan-Portfolio/)**, an enthusiast of science, new technology, programming, and online gaming. Always willing to share my knowledge and innovative ideas with others. Committed to making a positive impact in the world through software development, problem-solving, and volunteering. Ready to contribute to any team or project. I am confident that I can make a meaningful contribution to any team or project. 
+Hello there! I'm **[Kazi Neyamul Hasan](https://neyamul14.github.io/Neyamul-Hasan-Portfolio/)**, an enthusiast of science, new technology, programming, and online gaming. Always willing to share my knowledge and innovative ideas with others. Committed to making a positive impact in the world through software development, problem-solving, and volunteering. Ready to contribute to any team or project. I am confident that I can make a meaningful contribution to any team or project. 
 
 ---
 
