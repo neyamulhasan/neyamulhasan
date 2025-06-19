@@ -49,6 +49,12 @@ Currently focusing on Java, C++, JavaScript, Python, PHP, and E-language - basic
 **Tools:** Git • Docker • Linux • VS Code  
 
 <br/>
+
+<div align="center">
+  
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=neyamulhasan&layout=compact&langs_count=6&theme=dark&hide_border=true"/>
+
+</div>
 <!--
 <div align="center">
   <img src="https://skillicons.dev/icons?i=python,javascript,cpp,java,php,react,html,css,bootstrap,tailwind,nodejs,flask,django,mysql,postgresql,mongodb,git,docker,linux,vscode"/>
@@ -67,19 +73,15 @@ Currently focusing on Java, C++, JavaScript, Python, PHP, and E-language - basic
 </div>
 
 
-<div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=neyamulhasan&show_icons=true&theme=dark&include_all_commits=true&count_private=true&hide_border=true"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=neyamulhasan&layout=compact&langs_count=6&theme=dark&hide_border=true"/>
-
-</div>
 
 
+<!--
 <div align="center">
   
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=neyamulhasan&theme=react-dark&hide_border=true&area=true" width="100%"/>
 
 </div>
+-->
 
 ---
 
