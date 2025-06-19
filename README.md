@@ -49,11 +49,11 @@ Currently focusing on Java, C++, JavaScript, Python, PHP, and E-language - basic
 **Tools:** Git • Docker • Linux • VS Code  
 
 <br/>
-
+<!--
 <div align="center">
   <img src="https://skillicons.dev/icons?i=python,javascript,cpp,java,php,react,html,css,bootstrap,tailwind,nodejs,flask,django,mysql,postgresql,mongodb,git,docker,linux,vscode"/>
 </div>
-
+-->
 
 ---
 
