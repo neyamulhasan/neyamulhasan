@@ -1,6 +1,6 @@
 <div align="center">
   
-![Profile Views](https://komarev.com/ghpvc/?username=neyamulhasan&color=blueviolet&style=flat-square&label=visitors) 
+![Profile Views](https://komarev.com/ghpvc/?username=neyamulhasan&color=blueviolet&style=for-the-badge&label=visitors)
 ![Stars](https://img.shields.io/github/stars/neyamulhasan?label=⭐%20Stars&style=for-the-badge&color=cf6679&labelColor=1a1a2e&logo=github&logoColor=white)
 
 </div>
