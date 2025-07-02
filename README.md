@@ -48,7 +48,7 @@ Currently focusing on Java, C++, JavaScript, Python, PHP, and E-language - basic
 
 <div align="center">
   
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=neyamulhasan&layout=compact&langs_count=6&theme=dark&hide_border=true"/>
+<img height="180em" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=neyamulhasan&theme=github_dark"/>
 
 </div>
 <!--
@@ -65,10 +65,7 @@ Currently focusing on Java, C++, JavaScript, Python, PHP, and E-language - basic
 <div align="center">
   
 <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=neyamulhasan&theme=github_dark" width="49%"/>
-<!--
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=neyamulhasan&theme=github_dark" width="49%"/>
 
--->
 </div>
 
 
