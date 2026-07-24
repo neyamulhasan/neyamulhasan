@@ -13,9 +13,9 @@
 ### About Me
 
 
-Enthusiast about science, new technology, programming, and online gaming. I'm currently exploring the intersection of web development and machine learning, always eager to share knowledge and innovative ideas with others. Committed to making a positive impact through software development, problem-solving, and volunteering.
+Passionate Computer Science undergraduate with strong interests in software engineering, artificial intelligence, machine learning, and robotics. Experienced in developing full-stack web applications, AI powered systems, and IoT-based automation projects. Skilled in problem-solving, teamwork, and innovative software development.
 
-Currently focusing on Java, C++, JavaScript, Python, PHP, and E-language - basically a professional jack-of-all-trades, master of none (but better than master of one, right?).
+Basically a professional jack-of-all-trades, master of none (but better than master of one, right?).
 
 <div align="center">
   
