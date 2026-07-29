@@ -1,82 +1,55 @@
-<div align="center">
+![Profile Views](https://komarev.com/ghpvc/?username=neyamulhasan&color=gray&style=flat-square&label=visitors)
+![Stars](https://img.shields.io/github/stars/neyamulhasan?label=⭐%20Stars&style=flat-square&color=gray&labelColor=gray&logo=github&logoColor=white)
+```text
+$ whoami
+██╗  ██╗ █████╗ ███████╗██╗
+██║ ██╔╝██╔══██╗╚══███╔╝██║
+█████╔╝ ███████║  ███╔╝ ██║
+██╔═██╗ ██╔══██║ ███╔╝  ██║
+██║  ██╗██║  ██║███████╗██║
+╚═╝  ╚═╝╚═╝  ╚═╝╚══════╝╚═╝
 
-**[Kazi Neyamul Hasan](https://neyamulhasan.pages.dev)** <br>
+███╗   ██╗███████╗██╗   ██╗ █████╗ ███╗   ███╗██╗   ██╗██╗
+████╗  ██║██╔════╝╚██╗ ██╔╝██╔══██╗████╗ ████║██║   ██║██║
+██╔██╗ ██║█████╗   ╚████╔╝ ███████║██╔████╔██║██║   ██║██║
+██║╚██╗██║██╔══╝    ╚██╔╝  ██╔══██║██║╚██╔╝██║██║   ██║██║
+██║ ╚████║███████╗   ██║   ██║  ██║██║ ╚═╝ ██║╚██████╔╝███████╗
+╚═╝  ╚═══╝╚══════╝   ╚═╝   ╚═╝  ╚═╝╚═╝     ╚═╝ ╚═════╝ ╚══════╝
 
-![Profile Views](https://komarev.com/ghpvc/?username=neyamulhasan&color=blueviolet&style=flat-square&label=visitors)
-![Stars](https://img.shields.io/github/stars/neyamulhasan?label=⭐%20Stars&style=flat-square&color=cf6679&labelColor=1a1a2e&logo=github&logoColor=white)
+██╗  ██╗ █████╗ ███████╗ █████╗ ███╗   ██╗
+██║  ██║██╔══██╗██╔════╝██╔══██╗████╗  ██║
+███████║███████║███████╗███████║██╔██╗ ██║
+██╔══██║██╔══██║╚════██║██╔══██║██║╚██╗██║
+██║  ██║██║  ██║███████║██║  ██║██║ ╚████║
+╚═╝  ╚═╝╚═╝  ╚═╝╚══════╝╚═╝  ╚═╝╚═╝  ╚═══╝
+```
 
+### About
+Passionate Computer Science undergraduate with strong interests in software engineering, artificial intelligence, machine learning, and robotics. Experienced in developing full-stack web applications, AI-powered systems, and IoT-based automation projects. Skilled in problem-solving, teamwork, and innovative software development.
 
-</div>
-
----
-
-### About Me
-
-
-Passionate Computer Science undergraduate with strong interests in software engineering, artificial intelligence, machine learning, and robotics. Experienced in developing full-stack web applications, AI powered systems, and IoT-based automation projects. Skilled in problem-solving, teamwork, and innovative software development.
-
-Basically a professional jack-of-all-trades, master of none (but better than master of one, right?).
-
-<div align="center">
-  
-<img src="https://github.com/neyamulhasan/neyamulhasan/blob/main/IMG/pop.gif" width="240"/>
-
-</div>
-
----
-
-### Tech Stack
-
-**Languages:** Python • JavaScript • C++ • Java • PHP  
-
-
-**Frontend:** React • HTML/CSS • Bootstrap • Tailwind  
+Ready to contribute to any team or project. I am confident that I can make a meaningful contribution to any team or project.
 
 
-**Backend:** Node.js • Flask • Django  
+### Find me around the web
 
+<table>
+<tr>
 
-**Database:** MySQL • PostgreSQL • MongoDB  
+<td align="center" width="300">
 
+<p><strong><a href="https://neyamulhasan.pages.dev">Visit my website ↗</a></strong></p>
 
-**ML/Data:** NumPy • Pandas • Scikit-learn • Matplotlib  
+<img src="https://github.com/neyamulhasan/neyamulhasan/blob/main/IMG/earth.gif?raw=true" width="150" alt="Portfolio">
 
+</td>
 
-**Tools:** Git • Docker • Linux • VS Code  
+<td align="center" width="300">
 
-<br/>
+<p><strong><a href="mailto:neyamulhasan14@gmail.com">Email Me ↗</a></strong></p>
 
-<div align="center">
-  
-<img height="180em" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=neyamulhasan&theme=github_dark&utcOffset=6" />
+<img src="https://github.com/neyamulhasan/neyamulhasan/blob/main/IMG/email.gif?raw=true" width="210" alt="Email">
 
-</div>
+</td>
 
----
-
-### GitHub Stats
-
-
-<div align="center">
-  
-<img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=neyamulhasan&theme=github_dark" width="49%"/>
-
-</div>
-
-
-
----
-
-### Connect
-
-<div align="center">
-  
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=flat-square&logo=todoist&logoColor=white)](https://neyamulhasan.github.io/neyamulhasan-site/)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/neyamulhasan)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:neyamulhasan14@gmail.com)
-
-*"The hardest choices require strongest will"*
-
-**Happy coding!**
-
-</div>
+</tr>
+</table>
