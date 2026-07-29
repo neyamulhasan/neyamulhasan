@@ -48,7 +48,7 @@ Ready to contribute to any team or project. I am confident that I can make a mea
 
 <p><strong><a href="mailto:neyamulhasan14@gmail.com">Email Me ↗</a></strong></p>
 
-<img src="https://github.com/neyamulhasan/neyamulhasan/blob/main/IMG/email.gif?raw=true" width="300" alt="Email">
+<img src="https://github.com/neyamulhasan/neyamulhasan/blob/main/IMG/e-mail.gif?raw=true" width="300" alt="Email">
 
 </td>
 
