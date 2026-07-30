@@ -26,9 +26,7 @@ $ whoami
 ```
 
 ### About
-Passionate Computer Science undergraduate with strong interests in software engineering, artificial intelligence, machine learning, and robotics. Experienced in developing full-stack web applications, AI-powered systems, and IoT-based automation projects. Skilled in problem-solving, teamwork, and innovative software development.
-
-Ready to contribute to any team or project. I am confident that I can make a meaningful contribution to any team or project.
+Computer Science undergraduate focused on software engineering, AI, and intelligent systems. I enjoy building practical applications, from full-stack web applications to machine learning projects, and solving real-world problems through clean, maintainable code.
 
 
 ### Find me around the web
