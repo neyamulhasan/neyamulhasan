@@ -44,7 +44,7 @@ Computer Science undergraduate focused on software engineering, AI, and intellig
 
 <td align="center" width="300">
 
-<p><strong><a href="mailto:neyamulhasan14@gmail.com">Email Me ↗</a></strong></p>
+<p><strong><a href="mailto:neyamulhasan.uiu@gmail.com">Email Me ↗</a></strong></p>
 
 <img src="https://github.com/neyamulhasan/neyamulhasan/blob/main/IMG/e-mail.gif?raw=true" width="300" alt="Email">
 
